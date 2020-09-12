@@ -1,6 +1,6 @@
 # Gentrification of Berlin
 
-Project to identify areas of Berlin that will be gentrified next
+Project to identify areas of Berlin that will be [gentrified](https://en.wikipedia.org/wiki/Gentrification) next.
 
 ![](assets/east_side_mall.jpg)
 
